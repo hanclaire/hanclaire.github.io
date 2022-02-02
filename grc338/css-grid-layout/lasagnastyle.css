@@ -109,7 +109,7 @@ p {
 		display: grid;  
 		grid-template-columns: repeat(2, 1fr);  
 		column-gap: 3em;  
-		padding: 3em 3em 4em 3em;  
+		padding: 2.5em 3em 4em 3em;  
 	}  
 	
 	
